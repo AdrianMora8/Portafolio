@@ -41,15 +41,8 @@ const SkillsList = () => {
       "Single Page Applications (SPAs)",
       "Landing pages and business websites",
       "Portfolio websites",
-    ],
-    "Mobile Development": [
-      "Mobile-friendly web apps",
-      "React Native mobile apps",
-    ],
-    "UI/UX Design & Prototyping": [
-      "UI design with Figma & Canva",
-      "UX research & improvements",
-      "Prototyping for websites & mobile apps",
+      "E-commerce websites",
+      "RESTful APIs & backend integration",
     ],
   };
 
