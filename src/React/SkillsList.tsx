@@ -38,11 +38,12 @@ const SkillsList = () => {
 
   const skills = {
     "Web Development": [
-      "Single Page Applications (SPAs)",
-      "Landing pages and business websites",
-      "Portfolio websites",
-      "E-commerce websites",
-      "RESTful APIs & backend integration",
+      "Full-stack web applications with complex business logic",
+      "Real-time systems & WebSocket integration",
+      "Multi-tenant SaaS platforms",
+      "Event & resource management systems",
+      "RESTful APIs & backend architecture",
+      "E-commerce solutions",
     ],
   };
 
